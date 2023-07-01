@@ -1,0 +1,9 @@
+{
+    "extends": "@yutengjing/tsconfig-node/tsconfig.json",
+    "include": [],
+    "references": [
+        {
+            "path": "./src/tsconfig.json"
+        }
+    ]
+}
